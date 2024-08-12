@@ -1,0 +1,9 @@
+.home{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  padding: 20px;
+  background-color: #c2f0c2; 
+  color: #333333;
+}
